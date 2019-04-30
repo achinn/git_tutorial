@@ -1,3 +1,21 @@
+# Agenda
+
+1. What is source control?
+2. Git workflows
+3. GitHub intro
+4. Merge conflicts
+
+---
+
+# What is source control?
+
+^
+- multiple people can collaborate
+- annotate your work as you go along
+- work history allows reverting
+
+---
+
 # Our first repo
 ```
 git init git_tutorial
