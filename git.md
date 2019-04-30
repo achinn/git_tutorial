@@ -110,6 +110,18 @@ git log
 
 ---
 
+# They get our latest master, make changes on a branch, commit, push, etc.
+
+```
+cd ../other_git_tutorial
+git checkout master
+git pull
+git log
+...
+```
+
+---
+
 # Our first repo
 ```
 git init git_tutorial
@@ -241,3 +253,17 @@ git log
 ```
 
 ![right, fit](merge_into_master.png)
+
+---
+
+# They get our latest master, make changes on a branch, commit, push, etc.
+
+```
+cd ../other_git_tutorial
+git checkout master
+git pull
+git log
+...
+```
+
+![right, fit](they_pull.png)
